@@ -1,43 +1,52 @@
-📝 Formulário de Cadastro Profissional e Responsivo
+<p align="center">  
+  <img src="https://img.icons8.com/ios-filled/50/000000/edit-property.png" alt="Formulário" width="50" height="50"/>
+</p>
 
-🚀 Acesse o formulário aqui
-[👉 Clique para abrir o formulário](https://natipastre.github.io/Formul-rio-de-Cadastro-Profissional-e-Responsivo/)
+<h1 align="center">📝 Formulário de Cadastro Profissional e Responsivo</h1>
 
+<p align="center">
+  🚀 <a href="https://natipastre.github.io/Formul-rio-de-Cadastro-Profissional-e-Responsivo/" target="_blank">👉 Clique para abrir o formulário</a>
+</p>
 
+---
 
+## 📋 Descrição
 
-📋 Descrição
-Projeto de formulário moderno, responsivo e acessível, desenvolvido com HTML, CSS e JavaScript puros. Ideal para coleta de dados de usuários com:
+Projeto de formulário web moderno, leve e responsivo, construído com HTML, CSS e JavaScript puros. Desenvolvido para oferecer uma experiência fluida e acessível, este formulário é ideal para:
 
-✔️ Validação em tempo real (email, senha, gênero, estado)
+- ✔️ Validação em tempo real dos campos essenciais (email, senha, gênero, estado)  
+- 📤 Upload seguro de imagens (JPG, PNG, GIF) com limite de 2MB  
+- 🎨 Design clean, minimalista e focado na usabilidade  
+- 🧩 Código organizado para fácil manutenção, aprendizado e customização  
 
-📤 Upload de imagem (jpg, png, gif) com limite de 2MB
+---
 
-🎨 Layout limpo e minimalista com foco na experiência do usuário
+## 🛠️ Tecnologias Utilizadas
 
-🧩 Código organizado para fácil manutenção e aprendizado
+- 🌐 HTML5 — marcação semântica e acessível  
+- 🎨 CSS3 — layout responsivo com Flexbox e tipografia moderna  
+- 💻 JavaScript — validação dinâmica e manipulação do DOM  
 
-🛠️ Tecnologias Utilizadas
-🌐 HTML5
+---
 
-🎨 CSS3 (Flexbox, tipografia moderna)
+## 🔮 Próximos Passos e Melhorias
 
-💻 JavaScript (validação e manipulação do DOM)
+- 🔐 Integração com backend para armazenamento seguro dos dados  
+- 👁️ Implementação de preview para upload de imagens  
+- 🌍 Suporte multilíngue e conformidade com padrões de acessibilidade (WCAG)  
+- 📱 Otimização para dispositivos móveis  
+- ✅ Adição de testes automatizados para garantir qualidade  
 
-🔮 Próximos Passos e Melhorias
-🔐 Integrar backend para armazenar os dados submetidos
+---
 
-👁️ Implementar pré-visualização das imagens enviadas
+## 📬 Contato
 
-🌍 Tornar o formulário multilíngue e acessível (WCAG)
-
-📱 Otimizar para dispositivos móveis
-
-✅ Adicionar testes automatizados para validação de qualidade
-
-📬 Contato
-Natália Baptista Pastre
-GitHub: @nataliapastre
+**Natália Baptista Pastre**  
+GitHub: [@nataliapastre](https://github.com/natipastre)  
 Email: natalia.pastre@yahoo.com.br
 
-✨ Contribuições, sugestões e feedback são sempre bem-vindos!
+---
+
+✨ **Contribuições, sugestões e feedback são sempre bem-vindos!**
+
+
