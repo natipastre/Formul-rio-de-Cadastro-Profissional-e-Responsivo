@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Formulário Profissional</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Cadastro de Usuário</h1>
+    <form id="formulario">
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required />
+
+      <label for="senha">Senha:</label>
+      <input type="password" id="senha" name="senha" required minlength="6" />
+
+      <label>Gênero:</label>
+      <div class="radio-group">
+        <label><input type="radio" name="genero" value="Feminino" /> Feminino</label>
+        <label><input type="radio" name="genero" value="Masculino" /> Masculino</label>
+        <label><input type="radio" name="genero" value="Outro" /> Outro</label>
+      </div>
+
+      <label for="estado">Estado:</label>
+      <select id="estado" name="estado" required>
+        <option value="">Selecione</option>
+        <option value="SP">São Paulo</option>
+        <option value="RJ">Rio de Janeiro</option>
+        <option value="MG">Minas Gerais</option>
+        <option value="BA">Bahia</option>
+        <option value="RS">Rio Grande do Sul</option>
+        <option value="PR">Paraná</option>
+        <option value="SC">Santa Catarina</option>
+        <option value="PE">Pernambuco</option>
+        <option value="CE">Ceará</option>
+        <option value="AM">Amazonas</option>
+        <option value="PA">Pará</option>
+        <option value="GO">Goiás</option>
+        <option value="ES">Espírito Santo</option>
+        <option value="DF">Distrito Federal</option>
+        <!-- Inclua os demais estados se quiser -->
+      </select>
+
+      <button type="submit">Enviar</button>
+
+      <!-- Dentro do seu form, antes do botão submit -->
+
+<label for="imagem">Upload de Imagem (jpg, png, gif):</label>
+<input type="file" id="imagem" name="imagem" accept="image/*" />
+<span class="erro" id="erro-imagem"></span>
+
+    </form>
+    <footer>
+      Desenvolvido por @nataliapastre
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
