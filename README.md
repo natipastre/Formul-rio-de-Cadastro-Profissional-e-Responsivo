@@ -1,7 +1,8 @@
 📝 Formulário de Cadastro Profissional e Responsivo
 
 🚀 Acesse o formulário aqui
-git clone https://github.com/natipastre/Formul-rio-de-Cadastro-Profissional-e-Responsivo.git
+[👉 Clique para abrir o formulário](https://natipastre.github.io/Formul-rio-de-Cadastro-Profissional-e-Responsivo/)
+
 
 
 
