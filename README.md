@@ -42,11 +42,11 @@ Projeto de formulário web moderno, leve e responsivo, construído com HTML, CSS
 ## 📬 Contato
 
 **Natália Baptista Pastre**  
-GitHub: [@nataliapastre](https://github.com/natipastre)  
-Email: natalia.pastre@yahoo.com.br
+- GitHub: [@nataliapastre](https://github.com/natipastre)  
+- LinkedIn: [nataliapastre-dev](https://www.linkedin.com/in/nataliapastre-dev/)  
+- Email: natalia.pastre@yahoo.com.br
 
 ---
 
 ✨ **Contribuições, sugestões e feedback são sempre bem-vindos!**
-
 
